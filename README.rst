@@ -4,4 +4,4 @@ Projects using this theme
 - mysolr_
 
 
-.. _mysolr: http://mysolr.redtuna.org
+.. _mysolr: http://goo.gl/RI8Ty
