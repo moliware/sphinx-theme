@@ -2,6 +2,10 @@ Projects using this theme
 -------------------------
 
 - mysolr_
+- solr_cli_
+
+Note: Pygments styles by @mitsuhiko
 
 
-.. _mysolr: http://goo.gl/RI8Ty
+.. _mysolr: http://bit.ly/NkJ3Kb
+.. _solr_cli: http://bit.ly/L3MFMm
