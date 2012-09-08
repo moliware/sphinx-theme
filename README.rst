@@ -8,4 +8,4 @@ Note: Pygments styles by @mitsuhiko
 
 
 .. _mysolr: http://bit.ly/NkJ3Kb
-.. _solr_cli: http://bit.ly/L3MFMm
+.. _solr_cli: http://mlwr.org/TB0xFp
